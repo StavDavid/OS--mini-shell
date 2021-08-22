@@ -1,6 +1,5 @@
 //ex4
 //author: Stav David
-//id: 316232313
 
 #include <stdio.h>
 
